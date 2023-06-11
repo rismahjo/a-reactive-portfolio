@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import ME from '../../assets/aboutme.jpg'
+import ME from '../../assets/aboutme.png'
 
 const About = () => {
   return (
@@ -18,7 +18,8 @@ const About = () => {
 
         <div className="about__content">
           <p>
-            LOREM IPSUM DOLOR SIT AMET CONSECTETUR...
+            A graduate from UC Riverside with a background in business and finance, building skills as a full-stack web developer to pursue a career in software engineering.
+            Passionate about learning and applying new technologies among other things. Hobbies include making music, creating art, traveling, and indulging in all kinds of media. 
           </p>
 
           <a href="#contact" className='btn btn-'>Let's Chat</a>

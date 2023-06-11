@@ -48,7 +48,7 @@ const Experience = () => {
               <BsCheckCircle className='experience_details-icon' c/>
               <div>
                 <h4>Tailwind</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Basic</small>
               </div>
               
             </article>
@@ -56,7 +56,7 @@ const Experience = () => {
               <BsCheckCircle className='experience_details-icon' c/>
               <div>
                 <h4>React</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Basic</small>
               </div>
               
             </article>
@@ -79,7 +79,7 @@ const Experience = () => {
               <BsCheckCircle className='experience_details-icon' c/>
               <div>
                 <h4>MongoDB</h4>
-                <small className='text-light'>Intermediate</small>
+                <small className='text-light'>Basic</small>
               </div>
               
             </article>
@@ -87,7 +87,7 @@ const Experience = () => {
               <BsCheckCircle className='experience_details-icon' c/>
               <div>
                 <h4>PHP</h4>
-                <small className='text-light'>Intermediate</small>
+                <small className='text-light'>Basic</small>
               </div>
               
             </article>
@@ -103,7 +103,7 @@ const Experience = () => {
               <BsCheckCircle className='experience_details-icon' c/>
              <div>
               <h4>Python</h4>
-              <small className='text-light'>Experienced</small>
+              <small className='text-light'>Basic</small>
              </div>
               
             </article>

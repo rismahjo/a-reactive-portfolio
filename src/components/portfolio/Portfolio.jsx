@@ -1,31 +1,28 @@
 import React from 'react'
 import './Portfolio.css'
-import IMG1 from '../../assets/sample1.png'
-import IMG2 from '../../assets/sample2.jpg'
-import IMG3 from '../../assets/sample3.jpg'
+import IMG1 from '../../assets/ecommerce.jpg'
+import IMG2 from '../../assets/workers.png'
+import IMG3 from '../../assets/readme.png'
 
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Project 1',
-    github: 'https://github.com',
-    demo: 'https://github.com'
+    title: 'E-Commerce Backend',
+    github: 'https://github.com/rismahjo/ecommerce-bts',
   },
   {
     id: 2,
     image: IMG2,
-    title: 'Project 2',
-    github: 'https://github.com',
-    demo: 'https://github.com'
+    title: 'Worker Tracker',
+    github: 'https://github.com/rismahjo/rismahjo/worker-tracker',
   },
   {
     id: 3,
     image: IMG3,
-    title: 'Project 3',
-    github: 'https://github.com',
-    demo: 'https://github.com'
+    title: 'Readme Generator',
+    github: 'https://github.com/rismahjo/make-me-a-readme',
   }
 ]
 
@@ -46,7 +43,6 @@ const Portfolio = () => {
             <h3>{title}</h3>
             <div className="portfolio__item-cta">
               <a href={github} className='btn' target='_blank'>GitHub</a>
-              <a href={demo} className='btn btn-primary' target="_blank">Live Demo</a>
             </div>
           </article>
           )

@@ -17,23 +17,19 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur elit.</p>
+              <p>Design dynamic websites using CSS for styling.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur elit.</p>
+              <p>Implementing functional objects such as calendars or clocks.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur elit.</p>
+              <p>Apply creative themes and color schemes utilizing artistic background.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur elit.</p>
+              <p>Utilize digital art programs for more detailed projects and requests.</p>
             </li>
           </ul>
         </article>
@@ -46,27 +42,27 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur elit.</p>
+              <p>Build functional applications as requested for business needs.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur elit.</p>
+              <p>Utilize various frameworks depending on project requirements.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur elit.</p>
+              <p>Create a working backend for e-commerce websites with secure payment options.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur elit.</p>
+              <p>Set up a database to store various information.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur elit.</p>
+              <p>Use a variety of software to test applications or improve functionality of existing applications.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur elit.</p>
+              <p>Write clean and concise code that can be securely worked on by other developers.</p>
             </li>
           </ul>
         </article>
@@ -79,23 +75,19 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur elit.</p>
+              <p>Use music producing/editing software to compose or perform music live.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur elit.</p>
+              <p>Edit images and videos and implementing them in existing projects.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur elit.</p>
+              <p>Use drawing/illustration software to produce any desired artwork as needed for projects.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur elit.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor, sit amet consectetur elit.</p>
+              <p>Hands on with several technologies, such as building computers or fixing appliances.</p>
             </li>
           </ul>
         </article>
