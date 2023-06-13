@@ -3,6 +3,7 @@ import './Portfolio.css'
 import IMG1 from '../../assets/ecommerce.jpg'
 import IMG2 from '../../assets/workers.png'
 import IMG3 from '../../assets/readme.png'
+import IMG4 from '../../assets/logo.png'
 
 
 const data = [
@@ -23,6 +24,12 @@ const data = [
     image: IMG3,
     title: 'Readme Generator',
     github: 'https://github.com/rismahjo/make-me-a-readme',
+  },
+  {
+    id: 4,
+    image: IMG4,
+    title: 'Highlighter - Calendar Application',
+    github: 'https://github.com/Radioactive-mtb/highlighter'
   }
 ]
 
